@@ -10,6 +10,6 @@
 
 ## Week 1 - Cybersecurity Fundamentals
 
-### Day 1 - [Linux Basics](Week 1 - Cybersecurity Fundamentals/Day 1 - Linux Basics.pdf)
+### Day 1 - [Linux Basics](Week_1-Cybersecurity-Fundamentals/Day_1-Linux-Basics.pdf)
 - Follow the attached document and feel free to experiment around with whatever you feel like.
 - Your task from today is to understand the linux environment till the end of the week (next friday)
