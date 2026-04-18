@@ -8,8 +8,8 @@
 
   [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZJFu0AoAY_g?si=KHDvLE4XeMEE68X-)
 
-## Week 1
+## Week 1 - Cybersecurity Fundamentals
 
-### Day 1 - Linux Basics
+### Day 1 - ![Linux Basics](Week 1 - Cybersecurity Fundamentals_Day 1 - Linux Basics)
 - Follow the attached document and feel free to experiment around with whatever you feel like.
 - Your task from today is to understand the linux environment till the end of the week (next friday)
