@@ -56,4 +56,4 @@
 
 ### Day 5 - NMap
 - **Resources**
-  - [NMAP]()
+  - [NMAP](Week_1-Cybersecurity-Fundamentals/Day_5-NMAP/NMAP.pdf)
