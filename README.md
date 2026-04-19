@@ -14,7 +14,7 @@
 - Follow the attached document and feel free to experiment around with whatever you feel like.
 - Your task from today is to understand the linux environment till the end of the week.
 - **Resources**
-  - [Linux Basics](Week_1-Cybersecurity-Fundamentals/Day_1-Linux-Basics/Day_1-Linux-Basics.pdf)
+  - [Linux Basics](Week_1-Cybersecurity-Fundamentals/Day_1-Linux-Basics/Linux-Basics.pdf)
 - **For practice**
 
   [![Play Bandit](https://img.shields.io/badge/Play_Bandit-OverTheWire-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://overthewire.org/wargames/bandit)
@@ -29,14 +29,14 @@
 ### Day 2 - Permissions and Priviledges
 - I hope you all are practicing the Bandit on overthewire.
 - **Resources**
-  - [Permissions and Priviledges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Priviledges/Day_2-Permissions-and-Priviledges.pdf)
+  - [Permissions and Priviledges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Priviledges/Permissions-and-Priviledges.pdf)
 - **Recording**
 
   [![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
 
 ### Day 3 - Networking Basics and Reconnaissance Tools
 - **Resources**
-  - [Networking Basics and Reconnaissance Tools](Week_1-Cybersecurity-Fundamentals/Day_3-Networking-Basics-and-Reconnaissance-Tools/Day_3-Networking-Basics-and-Reconnaissance-Tools.pdf)
+  - [Networking Basics and Reconnaissance Tools](Week_1-Cybersecurity-Fundamentals/Day_3-Networking-Basics-and-Reconnaissance-Tools/Networking-Basics-and-Reconnaissance-Tools.pdf)
 - **Recording**
 
   [![Networking Basics](https://img.shields.io/badge/Download-Networking--Basics--and--Reconnaissance--Tools-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fKaXA0-8BNWJ5bT-naGzS6ugNOYxofVY/view?usp=drivesdk)
