@@ -34,3 +34,14 @@
 
 ### Recording
 [![Networking Basics](https://img.shields.io/badge/Download-Networking--Basics--and--Reconnaissance--Tools-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fKaXA0-8BNWJ5bT-naGzS6ugNOYxofVY/view?usp=drivesdk)
+
+### Day 4 - HTTP Basics and CRUD Lifecycle
+1. HTTP
+2. HTTPS
+3. HTTP Requests and Responses
+4. HTTP Headers
+5. HTTP Methods and Status Codes
+6. HTTP GET Method
+7. HTTP Post Method
+8. CRUD API (Create, Read, Update, Delete)
+9. HTTP Basics and CRUD Lifecycle Introduction
