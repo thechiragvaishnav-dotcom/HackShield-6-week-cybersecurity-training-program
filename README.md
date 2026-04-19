@@ -12,7 +12,7 @@
 
 ### Day 1 - Linux Basics
 - Follow the attached document and feel free to experiment around with whatever you feel like.
-- Your task from today is to understand the linux environment till the end of the week (next friday).
+- Your task from today is to understand the linux environment till the end of the week.
 - **Resources**
   - [Linux Basics](Week_1-Cybersecurity-Fundamentals/Day_1-Linux-Basics/Day_1-Linux-Basics.pdf)
 - **For practice**
@@ -26,11 +26,13 @@
 
   [![Introductory session](https://img.shields.io/badge/Download-Introductory--session-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/16CFooK8Vd2CFs8zfCaYO2izH5qiWPEq9/view?usp=drivesdk)
 
-### Day 2 - [Permissions and Priviledges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Priviledges.pdf)
+### Day 2 - Permissions and Priviledges
 - I hope you all are practicing the Bandit on overthewire.
+- **Resources**
+  - [Permissions and Priviledges]()
+- **Recording**
 
-### Recording
-[![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
+  [![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
 
 ### Day 3 - [Networking Basics and Reconnaissance Tools](Week_1-Cybersecurity-Fundamentals/Day_3-Networking-Basics-and-Reconnaissance-Tools.pdf)
 
