@@ -13,3 +13,10 @@
 ### Day 1 - [Linux Basics](Week_1-Cybersecurity-Fundamentals/Day_1-Linux-Basics.pdf)
 - Follow the attached document and feel free to experiment around with whatever you feel like.
 - Your task from today is to understand the linux environment till the end of the week (next friday)
+
+## For practice
+[![Play Bandit](https://img.shields.io/badge/Play_Bandit-OverTheWire-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://overthewire.org/wargames/bandit)
+- Complete all the levels.
+- Try not to take GPT help.
+- Please try by yourself and dont give up on any question.
+- Otherwise, if stuck on a problem, analyse the walkthroughs.
