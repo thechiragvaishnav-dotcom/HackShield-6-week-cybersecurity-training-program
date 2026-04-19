@@ -30,7 +30,7 @@
 ### Recording
 [![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
 
-### Day 3 - [Networking basics](Week_1-Cybersecurity-Fundamentals/Day_3-Networking-basics.pdf)
+### Day 3 - [Networking Basics and Reconnaissance Tools](Week_1-Cybersecurity-Fundamentals/Day_3-Networking-Basics-and-Reconnaissance-Tools.pdf)
 
 ### Recording
-[![Networking basics](https://img.shields.io/badge/Download-Networkin--basics-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fKaXA0-8BNWJ5bT-naGzS6ugNOYxofVY/view?usp=drivesdk)
+[![Networking Basics](https://img.shields.io/badge/Download-Networking--Basics--and--Reconnaissance--Tools-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fKaXA0-8BNWJ5bT-naGzS6ugNOYxofVY/view?usp=drivesdk)
