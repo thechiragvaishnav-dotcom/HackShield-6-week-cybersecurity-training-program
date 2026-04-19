@@ -42,6 +42,7 @@
   [![Networking Basics](https://img.shields.io/badge/Download-Networking--Basics--and--Reconnaissance--Tools-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fKaXA0-8BNWJ5bT-naGzS6ugNOYxofVY/view?usp=drivesdk)
 
 ### Day 4 - HTTP Basics and CRUD Lifecycle
+- All the codes and workflow.
 - **Resources**
   1. [HTTP](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/1-HTTP.pdf)
   2. [HTTPS](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/2-HTTPS.pdf)
