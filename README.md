@@ -44,12 +44,16 @@
 ### Day 4 - HTTP Basics and CRUD Lifecycle
 - All the codes and workflow.
 - **Resources**
-  1. [HTTP](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/1-HTTP.pdf)
-  2. [HTTPS](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/2-HTTPS.pdf)
-  3. [HTTP Requests and Responses](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/3-HTTP-Requests-and-Responses.pdf)
-  4. [HTTP Headers](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/4-HTTP-Headers.pdf)
-  5. [HTTP Methods and Status Codes](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/5-HTTP-Methods-and-Status-Codes.pdf)
-  6. [HTTP GET Method](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/6-HTTP-GET-Method.pdf)
-  7. [HTTP Post Method](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/7-HTTP-Post-Method.pdf)
-  8. [CRUD API (Create, Read, Update, Delete)](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/8-CRUD-API-(Create,-Read,-Update,-Delete).pdf)
-  9. [HTTP Basics and CRUD Lifecycle Introduction](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/9-HTTP-Basics-and-CRUD-Lifecycle-Introduction.pdf)
+  - [HTTP](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/1-HTTP.pdf)
+  - [HTTPS](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/2-HTTPS.pdf)
+  - [HTTP Requests and Responses](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/3-HTTP-Requests-and-Responses.pdf)
+  - [HTTP Headers](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/4-HTTP-Headers.pdf)
+  - [HTTP Methods and Status Codes](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/5-HTTP-Methods-and-Status-Codes.pdf)
+  - [HTTP GET Method](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/6-HTTP-GET-Method.pdf)
+  - [HTTP Post Method](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/7-HTTP-Post-Method.pdf)
+  - [CRUD API (Create, Read, Update, Delete)](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/8-CRUD-API-(Create,-Read,-Update,-Delete).pdf)
+  - [HTTP Basics and CRUD Lifecycle Introduction](Week_1-Cybersecurity-Fundamentals/Day_4-HTTP-Basics-and-CRUD-Lifecycle-Introduction/9-HTTP-Basics-and-CRUD-Lifecycle-Introduction.pdf)
+
+### Day 5 - NMap
+- **Resources**
+  - [NMAP]()
