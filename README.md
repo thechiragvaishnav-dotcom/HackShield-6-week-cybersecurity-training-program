@@ -14,7 +14,7 @@
 - Follow the attached document and feel free to experiment around with whatever you feel like.
 - Your task from today is to understand the linux environment till the end of the week (next friday).
 - **Resources**
-  - [Linux Basics](
+  - [Linux Basics](Week_1-Cybersecurity-Fundamentals/Day_1-Linux-Basics/Day_1-Linux-Basics.pdf)
 - **For practice**
 
   [![Play Bandit](https://img.shields.io/badge/Play_Bandit-OverTheWire-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://overthewire.org/wargames/bandit)
