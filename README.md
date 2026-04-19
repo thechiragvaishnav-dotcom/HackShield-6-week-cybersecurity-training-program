@@ -25,3 +25,7 @@
 [![Introductory session](https://img.shields.io/badge/Download-Introductory--session-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/16CFooK8Vd2CFs8zfCaYO2izH5qiWPEq9/view?usp=drivesdk)
 
 ### Day 2 - [Permissions and Priviledges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Priviledges.pdf)
+- I hope you all are practicing the Bandit on overthewire.
+
+### Recording
+[![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
