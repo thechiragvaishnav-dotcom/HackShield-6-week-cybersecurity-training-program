@@ -29,7 +29,7 @@
 ### Day 2 - Permissions and Priviledges
 - I hope you all are practicing the Bandit on overthewire.
 - **Resources**
-  - [Permissions and Priviledges]()
+  - [Permissions and Priviledges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Priviledges/Day_2-Permissions-and-Priviledges.pdf)
 - **Recording**
 
   [![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
