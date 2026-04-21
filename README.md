@@ -83,7 +83,7 @@
     - [11. source](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/11-source.pdf)
     - [2. Terminal Multiplexers](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/02-Terminal-Multiplexers.pdf)
     - [5. tput](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/05-tput.pdf)
-    - [6. dailog](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/06-dailog.pdf)
+    - [6. dialog](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/06-dialog.pdf)
   - [Full Book AWTLCL(Adventures with the Linux Command Line)](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line))
 
 - **For practice**
