@@ -80,15 +80,15 @@
 
 ### Day 1 - Web Fundamentals
 - **Resources**
-  - [Web Fundamentals]()
-  - [Webinar Documentation]()
+  - [Web Fundamentals](Week_2-Web-Exploitation/Day_1-Web-Fundamentals/Web-Fundamentals.pdf)
+  - [Webinar Documentation](Week_2-Web-Exploitation/Day_1-Web-Fundamentals/Webinar-Documentation.pdf)
 
 ### Day 2 - SQL Injection — Talking Directly to the Database
 - **Resources**
-  - [SQL Injection]()
-  - [SQL Injection — Talking Directly to the Database]()
+  - [SQL Injection](Week_2-Web-Exploitation/Day_2-SQL-Injection-Talking-Directly-to-the-Database/SQL-Injection-Talking-Directly-to-the-Database.pdf)
+  - [SQL Injection — Talking Directly to the Database](Week_2-Web-Exploitation/Day_2-SQL-Injection-Talking-Directly-to-the-Database/SQL-Injection.pdf)
 
 ### Day 3 - Cross-Site Scripting (XSS) — Injecting Scripts into Browsers
 - **Resources**
-  - [Cross-Site Scripting (XSS)]()
-  - [Cross-Site Scripting (XSS) — Injecting Scripts into Browsers]()
+  - [Cross-Site Scripting (XSS)](Week_2-Web-Exploitation/Day_3-Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers/Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers.pdf)
+  - [Cross-Site Scripting (XSS) — Injecting Scripts into Browsers](Week_2-Web-Exploitation/Day_3-Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers/Cross-Site-Scripting-(XSS).pdf)
