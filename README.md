@@ -16,7 +16,11 @@
   - [Day 4 - HTTP Basics and CRUD Lifecycle](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-4---http-basics-and-crud-lifecycle)
   - [Day 5 - NMap](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-5---nmap)
   - [Day 6 - Shell Scripting](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-6---shell-scripting)
-  
+- [Week 2 - Web Exploitation](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#week-2---web-exploitation)
+  - [Day 1 - Web Fundamentals](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---web-fundamentals)
+  - [Day 2 - SQL Injection — Talking Directly to the Database](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---sql-injection--talking-directly-to-the-database)
+  - [Day 3 - Cross-Site Scripting (XSS) — Injecting Scripts into Browsers](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-3---cross-site-scripting-xss--injecting-scripts-into-browsers)
+    
 ## Week 1 - Cybersecurity Fundamentals
 
 ### Day 1 - Linux Basics
