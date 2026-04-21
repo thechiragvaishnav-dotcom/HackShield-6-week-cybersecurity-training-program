@@ -8,6 +8,15 @@
 
   [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZJFu0AoAY_g?si=KHDvLE4XeMEE68X-)
 
+## Content
+- [Week 1 - Cybersecurity Fundamentals](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#week-1---cybersecurity-fundamentals)
+  - [Day 1 - Linux Basics](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---linux-basics)
+  - [Day 2 - Permissions and Priviledges](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---permissions-and-priviledges)
+  - [Day 3 - Networking Basics and Reconnaissance Tools](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-3---networking-basics-and-reconnaissance-tools)
+  - [Day 4 - HTTP Basics and CRUD Lifecycle](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-4---http-basics-and-crud-lifecycle)
+  - [Day 5 - NMap](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-5---nmap)
+  - [Day 6 - Shell Scripting](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-6---shell-scripting)
+  
 ## Week 1 - Cybersecurity Fundamentals
 
 ### Day 1 - Linux Basics
