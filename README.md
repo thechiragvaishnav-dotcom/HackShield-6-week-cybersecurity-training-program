@@ -107,3 +107,5 @@
 - **Resources**
   - [Cross-Site Scripting (XSS)](Week_2-Web-Exploitation/Day_3-Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers/Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers.pdf)
   - [Cross-Site Scripting (XSS) — Injecting Scripts into Browsers](Week_2-Web-Exploitation/Day_3-Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers/Cross-Site-Scripting-(XSS).pdf)
+
+### [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
