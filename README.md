@@ -85,8 +85,8 @@
 
 ### Day 2 - SQL Injection — Talking Directly to the Database
 - **Resources**
-  - [SQL Injection]
-  - [SQL Injection — Talking Directly to the Database]
+  - [SQL Injection]()
+  - [SQL Injection — Talking Directly to the Database]()
 
 ### Day 3 - Cross-Site Scripting (XSS) — Injecting Scripts into Browsers
 - **Resources**
