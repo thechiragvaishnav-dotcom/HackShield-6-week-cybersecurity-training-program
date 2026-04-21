@@ -64,14 +64,14 @@
   - Learn about scripting so you can easily run programs directly on the shell without using any compilation. 
   - Shell scripting is important due to access only to the shell.
   - **Chapters to read in order:**
-    - [3. Less Typing]()
-    - [4. More Redirection]()
-    - [7. AWK]()
-    - [11. source]()
-    - [2. Terminal Multiplexers]()
-    - [5. tput]()
-    - [6. dailog]()
-  - [Full Book AWTLCL(Adventures with the Linux Command Line)]()
+    - [3. Less Typing](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/03-Less-Typing.pdf)
+    - [4. More Redirection](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/04-More-Redirection.pdf)
+    - [7. AWK](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/07-AWK.pdf)
+    - [11. source](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/11-source.pdf)
+    - [2. Terminal Multiplexers](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/02-Terminal-Multiplexers.pdf)
+    - [5. tput](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/05-tput.pdf)
+    - [6. dailog](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line)/06-dailog.pdf)
+  - [Full Book AWTLCL(Adventures with the Linux Command Line)](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Book-AWTLCL(Adventures-with-the-Linux-Command-Line))
 
 - **For practice**
-  - [Questions]()
+  - [Questions](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Tutorials-for-shell-and-Kernel-Programming.jpg)
