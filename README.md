@@ -89,7 +89,7 @@
 - **For practice**
   - [Questions](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Tutorials-for-shell-and-Kernel-Programming.jpg)
 
-### [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
 
 ## Week 2 - Web Exploitation
 
@@ -108,4 +108,4 @@
   - [Cross-Site Scripting (XSS)](Week_2-Web-Exploitation/Day_3-Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers/Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers.pdf)
   - [Cross-Site Scripting (XSS) — Injecting Scripts into Browsers](Week_2-Web-Exploitation/Day_3-Cross-Site-Scripting-(XSS)-Injecting-Scripts-into-Browsers/Cross-Site-Scripting-(XSS).pdf)
 
-### [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
