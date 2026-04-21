@@ -1,6 +1,6 @@
 # HackShield-6-week-cybersecurity-training-program
 
-* A pentesting worthy and legal to exploit machine Metaploitable-2 linux virtual machine for practicing exploitation
+* A pentesting worthy and legal to exploit machine Metasploitable-2 linux virtual machine for practicing exploitation
   
   [![Metasploitable-2.zip](https://img.shields.io/badge/Download-Metasploitable--2.zip-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1qoqpgrxOmeHWO3BA2Re-8M5JM4hfcIER/view?usp=sharing)
 
