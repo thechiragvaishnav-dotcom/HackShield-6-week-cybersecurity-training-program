@@ -57,3 +57,21 @@
 ### Day 5 - NMap
 - **Resources**
   - [NMAP](Week_1-Cybersecurity-Fundamentals/Day_5-NMAP/NMAP.pdf)
+ 
+### Day 6 - Shell Scripting
+- **Resources**
+  - This is a free book about the linux command line.
+  - Learn about scripting so you can easily run programs directly on the shell without using any compilation. 
+  - Shell scripting is important due to access only to the shell.
+  - **Chapters to read in order:**
+    - [3. Less Typing]()
+    - [4. More Redirection]()
+    - [7. AWK]()
+    - [11. source]()
+    - [2. Terminal Multiplexers]()
+    - [5. tput]()
+    - [6. dailog]()
+  - [Full Book AWTLCL(Adventures with the Linux Command Line)]()
+
+- **For practice**
+  - [Questions]()
