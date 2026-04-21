@@ -11,7 +11,7 @@
 ## Content
 - [Week 1 - Cybersecurity Fundamentals](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#week-1---cybersecurity-fundamentals)
   - [Day 1 - Linux Basics](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---linux-basics)
-  - [Day 2 - Permissions and Priviledges](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---permissions-and-priviledges)
+  - [Day 2 - Permissions and Privileges](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---permissions-and-privileges)
   - [Day 3 - Networking Basics and Reconnaissance Tools](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-3---networking-basics-and-reconnaissance-tools)
   - [Day 4 - HTTP Basics and CRUD Lifecycle](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-4---http-basics-and-crud-lifecycle)
   - [Day 5 - NMap](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-5---nmap)
@@ -39,10 +39,10 @@
 
   [![Introductory session](https://img.shields.io/badge/Download-Introductory--session-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/16CFooK8Vd2CFs8zfCaYO2izH5qiWPEq9/view?usp=drivesdk)
 
-### Day 2 - Permissions and Priviledges
+### Day 2 - Permissions and Privileges
 - I hope you all are practicing the Bandit on overthewire.
 - **Resources**
-  - [Permissions and Priviledges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Priviledges/Permissions-and-Priviledges.pdf)
+  - [Permissions and Privileges](Week_1-Cybersecurity-Fundamentals/Day_2-Permissions-and-Privileges/Permissions-and-Privileges.pdf)
 - **Recording**
 
   [![Cybersecurity & AI Overview](https://img.shields.io/badge/Download-Cybersecurity--&--AI--Overview-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1aSEFjbTK_AIcPwHZwG0LpdCrLxi1agXA/view?usp=drivesdk)
