@@ -75,3 +75,20 @@
 
 - **For practice**
   - [Questions](Week_1-Cybersecurity-Fundamentals/Day_6-Shell-Scripting/Tutorials-for-shell-and-Kernel-Programming.jpg)
+
+## Week 2 - Web Exploitation
+
+### Day 1 - Web Fundamentals
+- **Resources**
+  - [Web Fundamentals]()
+  - [Webinar Documentation]()
+
+### Day 2 - SQL Injection — Talking Directly to the Database
+- **Resources**
+  - [SQL Injection]
+  - [SQL Injection — Talking Directly to the Database]
+
+### Day 3 - Cross-Site Scripting (XSS) — Injecting Scripts into Browsers
+- **Resources**
+  - [Cross-Site Scripting (XSS)]()
+  - [Cross-Site Scripting (XSS) — Injecting Scripts into Browsers]()
