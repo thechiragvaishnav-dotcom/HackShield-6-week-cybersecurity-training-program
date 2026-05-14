@@ -20,6 +20,7 @@
   - [Day 1 - Web Fundamentals](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---web-fundamentals)
   - [Day 2 - SQL Injection — Talking Directly to the Database](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---sql-injection--talking-directly-to-the-database)
   - [Day 3 - Cross-Site Scripting (XSS) — Injecting Scripts into Browsers](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-3---cross-site-scripting-xss--injecting-scripts-into-browsers)
+  - [Day 4 - Authentication Flaws — Breaking Login Logic](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-4---authentication-flaws--breaking-login-logic)
     
 ## Week 1 - Cybersecurity Fundamentals
 
