@@ -96,7 +96,7 @@
 ### Day 1 - Web Fundamentals
 - Resources
   - [Web Fundamentals](Week_2-Web-Exploitation/Day_1-Web-Fundamentals/1-Web-Fundamentals.pdf)
-  - [Webinar Documentation](Week_2-Web-Exploitation/Day_1-Web-Fundamentals/2-Webinar-Documentation.pdf)
+  - [Web Exploitation](Week_2-Web-Exploitation/Day_1-Web-Fundamentals/2-Web-Exploitation.pdf)
 
 ### Day 2 - SQL Injection — Talking Directly to the Database
 - Resources
