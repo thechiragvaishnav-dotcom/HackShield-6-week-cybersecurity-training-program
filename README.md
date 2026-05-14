@@ -110,7 +110,7 @@
 
 ### Day 4 - Authentication Flaws — Breaking Login Logic
 - Resources
-  - [Authentication Flaws]()
-  - [Authentication Flaws — Breaking Login Logic]()
+  - [Authentication Flaws](Week_2-Web-Exploitation/Day_4-Authentication-Flaws-Breaking-Login-Logic/1-Authentication-Flaws.pdf)
+  - [Authentication Flaws — Breaking Login Logic](Week_2-Web-Exploitation/Day_4-Authentication-Flaws-Breaking-Login-Logic/2-Authentication-Flaws-Breaking-Login-Logic.pdf)
 
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
