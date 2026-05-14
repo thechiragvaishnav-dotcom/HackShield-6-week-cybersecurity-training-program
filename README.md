@@ -114,4 +114,14 @@
   - [Authentication Flaws](Week_2-Web-Exploitation/Day_4-Authentication-Flaws-Breaking-Login-Logic/1-Authentication-Flaws.pdf)
   - [Authentication Flaws — Breaking Login Logic](Week_2-Web-Exploitation/Day_4-Authentication-Flaws-Breaking-Login-Logic/2-Authentication-Flaws-Breaking-Login-Logic.pdf)
 
+### Day 5 - File Upload Vulnerabilities — Uploading Code to Execute
+- Resources
+  - [File Upload Vulnerabilities](Week_2-Web-Exploitation/Day_5-File-Upload-Vulnerabilities-Uploading-Code-to-Execute/1-File-Upload-Vulnerabilities.pdf)
+  - [File Upload Vulnerabilities — Uploading Code to Execute](Week_2-Web-Exploitation/Day_5-File-Upload-Vulnerabilities-Uploading-Code-to-Execute/2-File-Upload-Vulnerabilities-Uploading-Code-to-Execute.pdf)
+
+### Day 6 - Burp Suite — The Web Tester's Toolkit
+- Resources
+  - [Burp Suite](Week_2-Web-Exploitation/Day_6-Burp-Suite-The-Web-Tester's-Toolkit/1-Burp-Suite.pdf)
+  - [Burp Suite — The Web Tester's Toolkit](Week_2-Web-Exploitation/Day_6-Burp-Suite-The-Web-Tester's-Toolkit/2-Burp-Suite-The-Web-Tester's-Toolkit.pdf)
+
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
