@@ -189,10 +189,13 @@
 ## Week 4 -  DFIR(Digital Forensics and Incident Response)
 
 ### Day 1 - The Foundation of Digital Detectives
+- Day 1 DFIR guide we’re moving from "breaking things" to the detective side of security. 
+- Today's Mission: Read the doc and solve the "Ghost File" challenge at the end using journalctl. DFIR is all about the vibe of the system, let’s see who can spot the traces!
 - Resources
   - [Intro to DFIR](Week_4-DFIR/Day_1-The-Foundation-of-Digital-Detectives/DFIR_Day1_Masterclass.pdf)
 
 ### Day 2 - Log Analysis & Timeline Reconstruction
+- hey hackers, sharing the day 02 resources for our dfir week. make sure you actually dive into the logs n solve the ghost mantis challenge properly bcz this is where you really learn the skills for your future. don't skip anything, give it your best shot and let's see who gets the flag first!
 - Resources
   - [The Investigator's Playbook: Reading the Story the Attacker Left Behind](Week_4-DFIR/Day_2-Log-Analysis-&-Timeline-Reconstruction/DFIR_Day2.pdf)
 
@@ -201,20 +204,50 @@
 ## Week 5 -  SOC(Security Operations Center)
 
 ### Day 1 - SOC Day 1
+- In Day 1, we are starting with the basics of SOC, logs, and basic log analysis.
+Read the notes properly and try the commands on Kali Linux.
+- Commands to practice:
+  - grep
+  - tail
+  - last
+  - lastb
+  - netstat
+- Try to understand what is happening inside the logs and how suspicious activity can be found using logs.
+All notes are shared in resources
 - Resources
   - [Introduction to Security Operations Center and Log Analysis](Week_5-SOC/Day_1-SOC-Day_1/SOC_day-1.pdf)
 
 - Recording
 
   - Youtube Playlist
+  - Sharing one SOC playlist for better understanding of logs and basic investigation.
+  - Topics covered:    
+    - SOC basics
+    - Log analysis
+    - Linux logs
+    - Monitoring
+    - Basic investigation
     
     [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CEKfFnHgQHw&list=PLl00VsGSqbtxjr2XGhEgrm_Fg_V3mTMkV)
 
 ### Day 2 - SOC Day 2
+- I have uploaded the complete SOC Day 2 notes.
+- In this PDF, I explained threat detection, authentication logs, brute force attacks, SIEM basics, malware investigation, network monitoring, and SOC investigation workflow in simple and easy language for students.
 - Resources
   - [Threat Detection and Investigation](Week_5-SOC/Day_2-SOC-Day_2/SOC_Day2.pdf)
 
 - Recording
+- Today we will learn Threat Detection, Authentication Log Analysis, Brute Force Detection, Web Log Investigation, Network Monitoring, SIEM Basics, Alert Investigation, Threat Hunting, and Incident Response Workflow with practical SOC investigation concepts and Linux commands used by real SOC analysts.
+- Practice Commands:
+  - grep
+  - tail
+  - last
+  - lastb
+  - ps aux
+  - netstat
+  - ss
+  - tcpdump
+- Watch carefully, take notes, and practice commands during learning.
 
   - Youtube Video 1
     
