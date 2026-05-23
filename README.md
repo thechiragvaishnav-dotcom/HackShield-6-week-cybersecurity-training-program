@@ -136,7 +136,7 @@
 
 - Recording
 
-  - [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pCP4TV84f2A?si=IQ3qPVVv0WkjgvVa)
+  [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pCP4TV84f2A?si=IQ3qPVVv0WkjgvVa)
 
 ### Day 2 - Basic mathematics part 1
 - Resources
@@ -144,7 +144,7 @@
 
 - Recording
 
-  - [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/M1-_x7h2SrM?si=dEf57ou3l6eBhv3c)
+  [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/M1-_x7h2SrM?si=dEf57ou3l6eBhv3c)
  
 ### Day 3 - Basic mathematics part 2
 - Resources
@@ -176,4 +176,4 @@
 
 - Recording
 
-  - [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+  [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
