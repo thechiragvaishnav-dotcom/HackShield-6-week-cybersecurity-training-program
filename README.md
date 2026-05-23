@@ -16,6 +16,7 @@
   - [Day 4 - HTTP Basics and CRUD Lifecycle](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-4---http-basics-and-crud-lifecycle)
   - [Day 5 - NMap](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-5---nmap)
   - [Day 6 - Shell Scripting](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-6---shell-scripting)
+
 - [Week 2 - Web Exploitation](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#week-2---web-exploitation)
   - [Day 1 - Web Fundamentals](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---web-fundamentals)
   - [Day 2 - SQL Injection — Talking Directly to the Database](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---sql-injection--talking-directly-to-the-database)
@@ -23,7 +24,22 @@
   - [Day 4 - Authentication Flaws — Breaking Login Logic](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-4---authentication-flaws--breaking-login-logic)
   - [Day 5 - File Upload Vulnerabilities — Uploading Code to Execute](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-5---file-upload-vulnerabilities--uploading-code-to-execute)
   - [Day 6 - Burp Suite — The Web Tester's Toolkit](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-6---burp-suite--the-web-testers-toolkit)
-    
+
+- [Week 3 - Cryptography](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#week-3----cryptography)
+  - [Day 1 - Cryptography Basics to Advanced, Types, Uses & Career Opportunities](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-1---cryptography-basics-to-advanced-types-uses--career-opportunities)
+  - [Day 2 - Basic mathematics part 1](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-2---basic-mathematics-part-1)
+  - [Day 3 - Basic mathematics part 2](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-3---basic-mathematics-part-2)
+  - [Day 4 - Encryption Types](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-4---encryption-types)
+  - [Day 5 - Full Elliptic Curve](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-5---full-elliptic-curve)
+  - [Day 6 - Key Exchange](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-6---key-exchange)
+  - [Day 7 - Full A-to-Z](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-7---full-a-to-z)
+
+- [Week 4 - DFIR]()
+  - [Day 1 - ]()
+
+- [Week 5 - SOC]()
+  - [Day 1 - ]()
+
 ## Week 1 - Cybersecurity Fundamentals
 
 ### Day 1 - Linux Basics
@@ -168,7 +184,15 @@
 
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
 
-## Week 4 -  SOC
+## Week 4 -  DFIR
+
+### Day 1 - 
+- Resources
+  - []()
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
+
+## Week 5 -  SOC
 
 ### Day 1 - 
 - Resources
