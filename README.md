@@ -127,3 +127,53 @@
   - [Burp Suite — The Web Tester's Toolkit](Week_2-Web-Exploitation/Day_6-Burp-Suite-The-Web-Tester's-Toolkit/2-Burp-Suite-The-Web-Tester's-Toolkit.pdf)
 
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
+
+## Week 3 -  Cryptography
+
+### Day 1 - Cryptography Basics to Advanced, Types, Uses & Career Opportunities
+- Resources
+  - [Intro to Cryptography](Week_3-Cryptography/Day_1-Cryptography-Basics-to-Advanced-Types-Uses-and-Career-Opportunities/cyptographyppt.pdf)
+
+- Recording
+
+  - [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pCP4TV84f2A?si=IQ3qPVVv0WkjgvVa)
+
+### Day 2 - Basic mathematics part 1
+- Resources
+  - [Number Theory](Week_3-Cryptography/Day_2-Basic-Mathematics-for-Cryptography-(Number-Theory)/_Day2numberTheory.pdf)
+
+- Recording
+
+  - [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/M1-_x7h2SrM?si=dEf57ou3l6eBhv3c)
+ 
+### Day 3 - Basic mathematics part 2
+- Resources
+  - [Modular Arithmetic](Week_3-Cryptography/Day_3-Modular-Arithmetic/_Day3.pdf)
+
+### Day 4 - Encryption Types
+- Resources
+  - [AES & Diffie-Hallman key exchange | publickey, Knapsack, RSA crypto system](Week_3-Cryptography/Day_4-encryption-types/day4.pdf)
+
+### Day 5 - Full Elliptic Curve
+- Resources
+  - [RSA, Primality Testing, ElGamal crypto system, Elliptic Curve](Week_3-Cryptography/Day_5-Full-Elliptic-Curve/day5.pdf)
+
+### Day 6 - Key Exchange
+- Resources
+  - [Message Authentication, Digital Signature, Key management & Exchange, Hash function.](Week_3-Cryptography/Day_6-Key-Exchange/day6.pdf)
+ 
+### Day 7 - Full A-to-Z
+- Resources
+  - [Module](Week_3-Cryptography/Day_7-Full-A-to-Z/Module19.pdf)
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
+
+## Week 4 -  SOC
+
+### Day 1 - 
+- Resources
+  - []()
+
+- Recording
+
+  - [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
