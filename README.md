@@ -206,7 +206,9 @@
 
 - Recording
 
-  [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CEKfFnHgQHw&list=PLl00VsGSqbtxjr2XGhEgrm_Fg_V3mTMkV)
+  - Youtube Playlist
+    
+    [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CEKfFnHgQHw&list=PLl00VsGSqbtxjr2XGhEgrm_Fg_V3mTMkV)
 
 ### Day 2 - SOC Day 2
 - Resources
@@ -214,7 +216,12 @@
 
 - Recording
 
-  [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=13nDlOoIpC4)\
-  [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o15Rmr5vDog&t=1078s)
+  - Youtube Video 1
+    
+    [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=13nDlOoIpC4)
+
+  - Youtube Video 2
+    
+    [![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o15Rmr5vDog&t=1078s)
   
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
