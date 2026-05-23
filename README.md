@@ -188,11 +188,11 @@
 
 ### Day 1 - The Foundation of Digital Detectives
 - Resources
-  - [Intro to DFIR]()
+  - [Intro to DFIR](Week_4-DFIR/Day_1-The-Foundation-of-Digital-Detectives)
 
 ### Day 2 - Log Analysis & Timeline Reconstruction
 - Resources
-  - [The Investigator's Playbook: Reading the Story the Attacker Left Behind]()
+  - [The Investigator's Playbook: Reading the Story the Attacker Left Behind](Week_4-DFIR/Day_2-Log-Analysis-&-Timeline-Reconstruction)
 
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#content)
 
@@ -200,7 +200,7 @@
 
 ### Day 1 - SOC Day 1
 - Resources
-  - [Introduction to Security Operations Center and Log Analysis]()
+  - [Introduction to Security Operations Center and Log Analysis](Week_5-SOC/Day_1-SOC-Day_1)
 
 - Recording
 
@@ -208,7 +208,7 @@
 
 ### Day 2 - SOC Day 2
 - Resources
-  - [Threat Detection and Investigation]()
+  - [Threat Detection and Investigation](Week_5-SOC/Day_2-SOC-Day_2)
 
 - Recording
 
