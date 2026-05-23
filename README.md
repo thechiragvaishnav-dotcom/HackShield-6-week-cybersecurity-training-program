@@ -34,11 +34,13 @@
   - [Day 6 - Key Exchange](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-6---key-exchange)
   - [Day 7 - Full A-to-Z](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program#day-7---full-a-to-z)
 
-- [Week 4 - DFIR(Digital Forensics and Incident Response)]()
-  - [Day 1 - ]()
+- [Week 4 - DFIR(Digital Forensics and Incident Response)](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#week-4----dfirdigital-forensics-and-incident-response)
+  - [Day 1 - The Foundation of Digital Detectives](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---the-foundation-of-digital-detectives)
+  - [Day 2 - Log Analysis & Timeline Reconstruction](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---log-analysis--timeline-reconstruction)
 
-- [Week 5 - SOC(Security Operations Center)]()
-  - [Day 1 - ]()
+- [Week 5 - SOC(Security Operations Center)](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#week-5----socsecurity-operations-center)
+  - [Day 1 - SOC Day 1](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-1---soc-day-1)
+  - [Day 2 - SOC Day 2](https://github.com/thechiragvaishnav-dotcom/HackShield-6-week-cybersecurity-training-program/blob/main/README.md#day-2---soc-day-2)
 
 ## Week 1 - Cybersecurity Fundamentals
 
