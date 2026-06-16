@@ -1,4 +1,4 @@
-# HackShield-6-week-cybersecurity-training-program
+# HackShield 6 week cybersecurity training program
 
 * A pentesting worthy and legal to exploit machine Metasploitable-2 linux virtual machine for practicing exploitation
   
